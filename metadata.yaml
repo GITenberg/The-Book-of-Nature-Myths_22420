@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9566'
     url: http://www.gutenberg.org/2009/agents/9566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22420#The-Book-of-Nature-Myths
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Children's Instructional Books
